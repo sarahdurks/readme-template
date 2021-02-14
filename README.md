@@ -3,26 +3,19 @@
 <br />
 <p align="center">
     <img src="https://user-images.githubusercontent.com/77648727/107866546-ebdeec80-6e26-11eb-8fa7-d2c1eb6fddbd.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Best-README-Template</h3
+  <h3 align="center">Project-READMEe</h3
 
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  ## Table of Contents
+## Table of Contents
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    <li><a href="#contact">Contact</a></li>
+    <li> <a href="#about-the-project">About The Project</a>
+     <li> <a href="#built-with">Built With</a ></li>
+    <li> <a href="#roadmap">Roadmap</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
-</details>
+
 
 
 
@@ -31,15 +24,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+TLDR; of what this is.
 
-### Built With
+### Built With :toolkit:
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
-- [Laravel](https://laravel.com)
-
+- [x] A
+- [x] B
+- [x] C
 
 
 <!-- USAGE EXAMPLES -->
@@ -51,30 +42,11 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Whatever the plan is for this in the future.
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+ABC
 
 
